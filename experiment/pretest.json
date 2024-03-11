@@ -2,6 +2,7 @@
   "version": 2.0,
   "questions": [
     {
+
       "question": "Which of the following is not a form of memory?",
       "answers": {
         "a": "Instruction cache",
@@ -12,13 +13,37 @@
       
       "correctAnswer": "c",
       "difficulty": "beginner"
-    },
+  },
     {
       "question": "Which memory is difficult to interface with processor?",
       "answers": {
         "a": "ROM",
         "b": "Static memory",
         "c": "Dynamic memory",
+        "d": "None of these"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Dynamic RAM with respect to static RAM has",
+      "answers": {
+        "a": "Lower power consumption and higher bit density",
+        "b": "Higher power consumption and lower bit density",
+        "c": "lower power consumption and lower bit density",
+        "d": "Higher power consumption and Higher bit density"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not a form of memory?",
+      "answers": {
+        "a": "Instruction cache",
+        "b": "Instruction register",
+        "c": "Instruction opcode",
+
         "d": "None of these"
       },
       
