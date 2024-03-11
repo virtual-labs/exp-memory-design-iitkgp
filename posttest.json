@@ -1,0 +1,28 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the cycle time of a memory?",
+      "answers": {
+        "a": "Is greater than access time",
+        "b": "Is less than access time",
+        "c": "Same as access time",
+        "d": "None of these"
+      },
+       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is electrically programmable and ultraviolet ray irasable?",
+      "answers": {
+        "a": "PROM",
+        "b": "ROM",
+        "c": "RAM",
+        "d": "EPROM"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
