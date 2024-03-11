@@ -1,6 +1,10 @@
+
+### Design of Memory :
+
 ### Theory
 
 ## Design of Memory :
+
 
 A memory unit is a collection of storage cells together with associated circuits needed to transform insformation in and out of the device. Memory cells which can be accessed for information transfer to or from any desired random location is called random access memory(RAM). The block diagram of a memory unit-
 
@@ -29,3 +33,5 @@ A memory with 4 words needs two address lines. The two address inputs go through
 **Design Issues :**
 
 A basic RAM cell has been provided here as a component which can be used to design larger memory units. An IC memory consisting of 4 words each having 3 bits has been aslo provided.
+
+

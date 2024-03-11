@@ -10,11 +10,11 @@
 
 4. Modern Dictionary of Electronics - Rudolf F. Graf (1999). Newnes
 
-5. Computer Architecture and Organization - John P. Hayes
+5. Computer Organization and Architecture - William Stallings
 
 6. Computer System Architecture - M. Morris Mano
 
-7. Computer Organization and Architecture - William Stallings
+7. Computer Architecture and Organization - John P. Hayes
 
 #### Web Sites:
 
