@@ -2,6 +2,7 @@
 <center>
 <img src="../experiment/simulation/images/memory_circuit.png">
 </center>
+
 # Components Required:
 
 For Designing a RAM Cell
