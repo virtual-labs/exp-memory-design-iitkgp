@@ -23,7 +23,17 @@ For Designing a 4X3 RAM
 
 # Circuit of a RAM Cell on simulator:
 <center>
-<img src="./simulation/images/RAM cell.png">
+<img src="./simulation/images/RAM_design_memory.png">
+</center>
+
+# Circuit of SR Flipflop:
+<center>
+<img src="./simulation/images/S-R flip flop.png">
+</center>
+
+# Circuit for 3 Input AND Gate:
+<center>
+<img src="./simulation/images/3 inp AND gate.png">
 </center>
 
 - Follow the below manual and perform the experiment
