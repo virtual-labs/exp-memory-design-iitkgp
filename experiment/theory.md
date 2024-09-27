@@ -1,4 +1,3 @@
-### Design of Memory :
 
 A memory unit is a collection of storage cells together with associated circuits needed to transform insformation in and out of the device. Memory cells which can be accessed for information transfer to or from any desired random location is called random access memory(RAM). The block diagram of a memory unit-
 
