@@ -4,7 +4,7 @@ For Designing a RAM Cell
 
 <strong>To build a RAM Cell, we need :</strong>
 
-1. AND Gate(2 input)-6
+1. AND Gate(3 input)-3
 2. NOT Gate-2
 3. RS Flip Flop-1
 
