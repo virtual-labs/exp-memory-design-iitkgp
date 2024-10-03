@@ -18,7 +18,7 @@ For Designing a 4X3 RAM
 
 # Circuit Diagram of 4 x 3 RAM Memory:
 <center>
-<img src="./simulation/images/memory_circuit.png">
+<img src="./images/memory_circuit.png">
 </center>
 
 # Circuit of a RAM Cell on simulator:
