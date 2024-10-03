@@ -1,4 +1,4 @@
-# Components Required:
+## Components Required:
 
 For Designing a RAM Cell
 
@@ -16,25 +16,27 @@ For Designing a 4X3 RAM
 2. RAM Cell-12
 3. 2X4 Decoder with Enable-1
 
-# Circuit Diagram of 4 x 3 RAM Memory:
+## Circuit Diagram of 4 x 3 RAM Memory:
 <center>
 <img src="./images/memory_circuit.png">
 </center>
 
-# Circuit of a RAM Cell on simulator:
+
+## Circuit of a RAM Cell on simulator:
 <center>
 <img src="./simulation/images/RAM_design_memory.png">
 </center>
 
-# Circuit of SR Flipflop:
+## Circuit of SR Flipflop:
 <center>
 <img src="./simulation/images/S-R flip flop.png">
 </center>
 
-# Circuit for 3 Input AND Gate:
+## Circuit for 3 Input AND Gate:
 <center>
 <img src="./simulation/images/3 inp AND gate.png">
 </center>
+
 
 - Follow the below manual and perform the experiment
     - Manual --> [Click Here](./simulation/coavlNew.pdf)
