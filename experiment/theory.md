@@ -1,7 +1,4 @@
 
-
-
-
 ## Theory
 
 ## Design of Memory :
