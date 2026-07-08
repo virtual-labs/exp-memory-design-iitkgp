@@ -1,0 +1,50 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Dynamic RAM needs to be refreshed periodically",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Desirable characteristic(s) of a memory system is(are)",
+      "answers": {
+        "a": "Speed and reliability",
+        "b": "Durability and compactness",
+        "c": "Low power consumption",
+        "d": "All of these"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "1M Byte memory consists of ____ RAM chips with size 256K X 1 bit",
+      "answers": {
+        "a": "10",
+        "b": "12",
+        "c": "24",
+        "d": "32"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Memory refreshing is done by",
+      "answers": {
+        "a": "CPU",
+        "b": "Both CPU and external refresh controller",
+        "c": "External refresh controller",
+        "d": "None of these"
+      },
+       "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
